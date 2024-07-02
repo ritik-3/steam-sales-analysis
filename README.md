@@ -11,7 +11,8 @@
 8. [Analysis](#analysis)
 9. [Results](#results)
 10. [Contributing](#contributing)
-11. [Contact](#contact)
+11. [License](#license)
+12. [Contact](#contact)
 
 ## Introduction
 This project involves analyzing Steam sales data to identify trends and insights about the most played, loved, and sold games, as well as their pricing and revenue metrics. The analysis is performed using advanced Excel techniques.
@@ -88,6 +89,9 @@ Contributions are welcome! Please follow these steps to contribute:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Create a new Pull Request.
 
+## License
+
+This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 For any questions or inquiries, please contact [Ritik Sunil Khapre](mailto:ritik.khapre5202.com).
